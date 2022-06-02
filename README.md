@@ -91,7 +91,7 @@ Bu metod api token kullanarak profil bilgilerine erişimi sağlayan bir istektir
 - .NET Core 3.1
 - Asp.NET for Restful Api
 - MsSql
-- Entity Framework
+- Entity Framework Core
 - Automapper
 
 #### Techniques
