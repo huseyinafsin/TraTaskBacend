@@ -97,7 +97,7 @@ Bu metod api token kullanarak profil bilgilerine erişimi sağlayan bir istektir
 #### Techniques
 - JWT (Json Web Tokens)
 - IoC 
-- Autofac Dependency Resolver
+- Microsoft Built In Dependency Resolver
 
 
 
